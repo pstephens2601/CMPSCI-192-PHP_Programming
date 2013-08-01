@@ -1,0 +1,93 @@
+/*  Lab assignments for CMPSCI-192 PHP Programming, taken at College of the Canyons
+ *	Spring of 2013.
+ *
+ */
+
+body{
+	font-family: 'Julius Sans One', sans-serif;
+	padding: 0px;
+	margin: 0px;
+}
+table {
+	font-size: 12px;
+	margin-bottom: 15px;
+	width: 650px;
+}
+td {
+	padding: 10px;
+}
+a {
+	color: white;
+}
+a:hover {
+	color: #FF7200;
+}
+.cars {
+	margin-left: auto;
+	margin-right: auto;
+}
+h1 {
+	font-family: 'Julius Sans One', sans-serif;
+	color: #FF7200;
+	font-size: 80px;
+	margin: 0px;
+}
+div.header {
+	position: relative;
+	background: #E3E3E3;
+	padding: 30px;
+	text-align: center;
+	box-shadow: 0px 3px 8px #000;
+	z-index: 2;
+}
+div.menuLeft {
+	float:left;
+	width: 150px;
+	padding: 30px;
+}
+ul.menuLeft {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+li.menuLeft {
+
+}
+a.menuLeft {
+	display: block;
+	padding: 5px;
+	color: black;
+	text-decoration: none;
+}
+a.menuLeft:hover {
+	color: #FF7200;
+	text-decoration: none;
+}
+div.body {
+	float:left;
+	min-height: 350px;
+	padding: 30px;
+	font-size: 13px;
+	padding-top: 30px;
+}
+div.footer {
+	background: black;
+	color: white;
+	font-size: 12px;
+	padding: 5px;
+}
+div.footerWrapper {
+	position: relative;
+	width: 100%;
+	background: #444444;
+	min-height: 150px;
+	color: white;
+	font-size: 12px;
+}
+div.subFooter {
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	top: 30px;
+}
